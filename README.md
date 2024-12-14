@@ -44,6 +44,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/hotel-management-site.git
-cd hotel-management-site
-npm install
-npm run dev
+2. cd hotel-management-site
+3. npm install
+4. npm run dev
+- The app will be live at http://localhost:3000
